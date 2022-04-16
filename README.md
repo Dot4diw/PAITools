@@ -5,9 +5,7 @@ The core function of the software is implemented based on ImageMagick's Magick++
 
 ！！！Short-term product, the code is poorly written, and the function can only be used immediately！！！
 
-![image](BYCPLUSPLUS/PAIT/SourceFiles/PAIT-Screenshot.jpg)
-
-![image](BYCPLUSPLUS/PAIT/SourceFiles/Screenshot1.jpg)
+![image](BYCPLUSPLUS/PAIT/SourceFiles/PAIT-Screenshot.jpg)![image](BYCPLUSPLUS/PAIT/SourceFiles/Screenshot1.jpg)
 
 ## PDF Convert to Image
 Input a PDF file, set the output resolution and format, click convert to convert PDF to image.
