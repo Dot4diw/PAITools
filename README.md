@@ -15,9 +15,10 @@ Support mutual conversion between various commonly used image formats.
 
 # Installation guide
 Step1. Download the installation package from [PDF-AND-IMAGE-TOOLS/BYCPLUSPLUS/PAIT/PAIT-Installer/PAIT-Installer.msi](https://github.com/Dot4diw/PDF-AND-IMAGE-TOOLS/blob/main/BYCPLUSPLUS/PAIT/PAIT-Installer/PAIT-Installer.msi) and install it.
+
 Step2. Download ImageMagick installation package from PDF-AND-IMAGE-TOOLS/BYCPLUSPLUS/PAIT/SourceFiles/ImageMagick-7.1.0-29-Q16-HDRI-x64-dll.exe or https://imagemagick.org/script/download.php#windows and install it. Please check the "Add application directory to your system path" and "Install development headers and libraries for C and C++" options when installing.
 ![image](BYCPLUSPLUS/PAIT/SourceFiles/ImageMagick-Install-Guide.jpg)
 
 Step3. Running.
 
-<font color=Blue>Note: The path and output file names do not support Chinese, please enter the English path and the name.</font>
+## Note: The path and output file names do not support Chinese, please enter the English path and the name.
