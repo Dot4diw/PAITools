@@ -6,7 +6,7 @@ The core function of the software is implemented based on [ImageMagick's Magick+
 #### This is an impromptu rough little program, the code is badly written, and the functions can only be used as needed.
 ![image](BYCPLUSPLUS/PAIT/SourceFiles/PAIT-Screenshot.jpg#pic_left)![image](BYCPLUSPLUS/PAIT/SourceFiles/Screenshot1.jpg#pic_right)
 
-<img src="BYCPLUSPLUS/PAIT/SourceFiles/PAIT-Screenshot.jp" width="60%">
+<img src="BYCPLUSPLUS/PAIT/SourceFiles/PAIT-Screenshot.jpg" width="20%">
 ## PDF Convert to Image
 Input a PDF file, set the output resolution and format, click convert to convert PDF to image.
 
