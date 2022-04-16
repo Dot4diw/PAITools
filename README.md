@@ -1,5 +1,6 @@
 # PDF-AND-IMAGE-TOOLS
-A tool for converting between PDF to image and image formats
+A tool for converting between PDF to image and image formats.
+
 ![image](BYCPLUSPLUS/PAIT/SourceFiles/PAIT-Screenshot.jpg)
 
 ## PDF Convert to Image
