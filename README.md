@@ -6,6 +6,7 @@ The core function of the software is implemented based on [ImageMagick's Magick+
 #### This is an impromptu rough little program, the code is badly written, and the functions can only be used as needed.
 ![image](BYCPLUSPLUS/PAIT/SourceFiles/PAIT-Screenshot.jpg#pic_left)![image](BYCPLUSPLUS/PAIT/SourceFiles/Screenshot1.jpg#pic_right)
 
+<img src="BYCPLUSPLUS/PAIT/SourceFiles/PAIT-Screenshot.jp" width="60%">
 ## PDF Convert to Image
 Input a PDF file, set the output resolution and format, click convert to convert PDF to image.
 
@@ -18,3 +19,4 @@ Step2. Download ImageMagick installation package from PDF-AND-IMAGE-TOOLS/BYCPLU
 ![image](BYCPLUSPLUS/PAIT/SourceFiles/ImageMagick-Install-Guide.jpg)
 
 Step3. Running.
+<font color=Blue>Note: The path and output file names do not support Chinese, please enter the English path and the name.</font>
