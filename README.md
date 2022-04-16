@@ -21,4 +21,7 @@ Step2. Download ImageMagick installation package from [PDF-AND-IMAGE-TOOLS/BYCPL
 
 Step3. Running.
 
-## Note: The path and output file names do not support Chinese, please enter the English path and the name.
+## Note: 
+### 1). The path and output file names do not support Chinese, please enter the English path and the name.
+### 2). PDF to image only supports single page pdf.
+.
