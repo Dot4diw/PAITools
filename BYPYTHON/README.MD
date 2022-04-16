@@ -5,6 +5,7 @@
 ## Python  dependency package
 Open cmd or bash shell and run the following command to install python package
 ```bash
+#python3.9
 pip install wand
 pip install pdf2image
 pip install PySimpleGUI
