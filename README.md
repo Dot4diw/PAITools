@@ -19,7 +19,9 @@ Step2. Download ImageMagick installation package from [PDF-AND-IMAGE-TOOLS/BYCPL
 
 ![image](BYCPLUSPLUS/PAIT/SourceFiles/ImageMagick-Install-Guide.jpg)
 
-Step3. Running.
+Step3. Install the Ghostscript from https://www.ghostscript.com/.
+
+Step4. Running.
 
 ## Note: 
 ### 1). The path and output file name do not support Chinese, please enter the English path and the name.
