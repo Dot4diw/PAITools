@@ -1,4 +1,4 @@
-# PDF-AND-IMAGE-TOOLS
+# PAITools ( PDF And Image Tools)
 A tool for converting between PDF to image and image formats.
 ## Introduction
 The core function of the software is implemented based on [ImageMagick's Magick++](https://imagemagick.org/script/magick++.php), and the graphical interface is based on the [MFC framework](https://docs.microsoft.com/en-us/cpp/mfc/framework-mfc?view=msvc-170). Its main function is to achieve high-quality conversion between PDF to image and image formats.
@@ -24,12 +24,12 @@ Step3. Install the Ghostscript from https://www.ghostscript.com/.
 Step4. Running.
 
 ## Note: 
-** 1). The path and output file name do not support Chinese, please enter the English path and the name. **
+*1). The path and output file name do not support Chinese, please enter the English path and the name.*
 
-** 2). PDF to image only supports single page pdf. **
+*2). PDF to image only supports single page pdf.*
 ## Updata
-** Redesigned program interface.**
+*Redesigned program interface.*
 
-** Automatically recognize and automatic fill the output file path.**
+*Automatically recognize and automatic fill the output file path.*
 
-** Fix some known bugs **
+*Fix some known bugs*
