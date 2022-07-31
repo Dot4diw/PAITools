@@ -13,9 +13,9 @@ Input a PDF file, set the output resolution and format, click convert to convert
 Support mutual conversion between various commonly used image formats.
 
 ## Installation guide
-Step1. Download the installation package from [PDF-AND-IMAGE-TOOLS/BYCPLUSPLUS/PAIT/PAIT-Installer/PAIT-Installer.msi](https://github.com/Dot4diw/PDF-AND-IMAGE-TOOLS/blob/main/BYCPLUSPLUS/PAIT/PAIT-Installer/PAIT-Installer.msi) and install it.
+Step1. Download the installation package from [PDF-AND-IMAGPAIToolsSetup/Release/PAIToolsSetup.msi]([https://github.com/Dot4diw/PDF-AND-IMAGE-TOOLS/blob/main/BYCPLUSPLUS/PAIT/PAIT-Installer/PAIT-Installer.msi](https://github.com/Dot4diw/PAITools/blob/main/PAIToolsSetup/Release/PAIToolsSetup.msi)) and install it.
 
-Step2. Download ImageMagick installation package from [PDF-AND-IMAGE-TOOLS/BYCPLUSPLUS/PAIT/SourceFiles/ImageMagick-7.1.0-29-Q16-HDRI-x64-dll.exe](https://github.com/Dot4diw/PDF-AND-IMAGE-TOOLS/blob/main/BYCPLUSPLUS/PAIT/SourceFiles/ImageMagick-7.1.0-29-Q16-HDRI-x64-dll.exe) or https://imagemagick.org/script/download.php#windows and install it. Please check the "Add application directory to your system path" and "Install development headers and libraries for C and C++" options when installing.
+Step2. Download ImageMagick installation package from https://imagemagick.org/script/download.php#windows and install it. Please check the "Add application directory to your system path" and "Install development headers and libraries for C and C++" options when installing.
 
 ![image](Res/ImageMagick-Install-Guide.jpg)
 
@@ -24,6 +24,9 @@ Step3. Install the Ghostscript from https://www.ghostscript.com/.
 Step4. Running.
 
 ## Note: 
-### 1). The path and output file name do not support Chinese, please enter the English path and the name.
-### 2). PDF to image only supports single page pdf.
-.
+** 1). The path and output file name do not support Chinese, please enter the English path and the name. **
+** ### 2). PDF to image only supports single page pdf. **
+## Updata
+** Redesigned program interface.**
+** Automatically recognize and automatic fill the output file path.**
+** Fix some known bugs **
