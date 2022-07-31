@@ -28,8 +28,8 @@ Step4. Running.
 
 *2). PDF to image only supports single page pdf.*
 ## Updata
-*Redesigned program interface.*
+*1). Redesigned program interface.*
 
-*Automatically recognize and automatic fill the output file path.*
+*2). Automatically recognize and automatic fill the output file path.*
 
-*Fix some known bugs*
+*3). Fix some known bugs*
