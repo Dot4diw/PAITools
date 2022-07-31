@@ -25,8 +25,11 @@ Step4. Running.
 
 ## Note: 
 ** 1). The path and output file name do not support Chinese, please enter the English path and the name. **
-** ### 2). PDF to image only supports single page pdf. **
+
+** 2). PDF to image only supports single page pdf. **
 ## Updata
 ** Redesigned program interface.**
+
 ** Automatically recognize and automatic fill the output file path.**
+
 ** Fix some known bugs **
